@@ -7,3 +7,4 @@ jika tertarik silakan isi nama dengan format berikut: <br>
 
   berikut daftar yang diterima:
   - programmer, [pika](pika.art)
+  - programmer2, [google](www.google.com)
